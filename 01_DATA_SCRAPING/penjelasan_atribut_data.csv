@@ -1,7 +1,7 @@
-No,Nama Fitur,Alasan Pemilihan (Mengapa Penting?)
-1,Identitas siswa,Digunakan sebagai identitas unik setiap siswa agar setiap data dapat dibedakan dan tidak terjadi duplikasi dalam proses analisis.
-2,Durasi belajar harian,Menunjukkan jumlah jam belajar siswa setiap hari. Data ini penting untuk melihat hubungan antara intensitas belajar dan hasil ujian.
-3,Durasi tidur harian,Menggambarkan rata-rata jam tidur siswa per hari. Data ini digunakan untuk menganalisis pengaruh pola tidur terhadap performa akademik.
-4,Tingkat kehadiran di kelas,Menunjukkan persentase kehadiran siswa dalam kegiatan pembelajaran. Data ini penting untuk menilai keterlibatan siswa dalam proses belajar.
-5,Nilai akademik sebelumnya,Menyajikan rata-rata nilai siswa pada periode sebelumnya sebagai indikator kemampuan akademik awal.
-6,Nilai ujian akhir,Merupakan hasil evaluasi akhir siswa yang digunakan sebagai variabel target dalam analisis dan pemodelan data science.
+Nama Fitur,Alasan Pemilihan (Mengapa Penting?)
+Identitas siswa,Digunakan sebagai identitas unik setiap siswa agar setiap data dapat dibedakan dan tidak terjadi duplikasi dalam proses analisis.
+Durasi belajar harian,Menunjukkan jumlah jam belajar siswa setiap hari. Data ini penting untuk melihat hubungan antara intensitas belajar dan hasil ujian.
+Durasi tidur harian,Menggambarkan rata-rata jam tidur siswa per hari. Data ini digunakan untuk menganalisis pengaruh pola tidur terhadap performa akademik.
+Tingkat kehadiran di kelas,Menunjukkan persentase kehadiran siswa dalam kegiatan pembelajaran. Data ini penting untuk menilai keterlibatan siswa dalam proses belajar.
+Nilai akademik sebelumnya,Menyajikan rata-rata nilai siswa pada periode sebelumnya sebagai indikator kemampuan akademik awal.
+Nilai ujian akhir,Merupakan hasil evaluasi akhir siswa yang digunakan sebagai variabel target dalam analisis dan pemodelan data science.
